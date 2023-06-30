@@ -1,22 +1,11 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Poppins:wght@200&display=swap"); */
 body {
-  /* background-image: url("@/assets/images/dot.png"); */
-  /* background-image: url("@/assets/images/dot.png"),
-    linear-gradient(
-      to
-        right,
-      #6db3f2,
-      #6db3f2
-    ); */
-  /* background: linear-gradient(to bottom, #D6E6FF  65%, #ffff 50%); */
+ 
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  /* font-family: "Poppins",
-    sans-serif; */
-}
+  
 
 h2 {
   color: #002772;
@@ -251,13 +240,7 @@ textarea {
 }
 
 .color-men {
-  /* background-image: url("@/assets/images/dot.png"),
-    linear-gradient(
-      to
-        right,
-      #6db3f2,
-      #6db3f2
-    ); */
+  
 }
 .color-women {
   border-color: #720060;

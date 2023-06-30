@@ -65,9 +65,7 @@ export default {
           if (category === "women's clothing") {
           this.categoryColor = 'color-women';
           document.body.style.background = 'url("/src/assets/images/dot.png"), linear-gradient(to bottom, #FDE2FF 65%, #FFFF 50%)';
-          // document.body.style.background = 'linear-gradient(to bottom, #720060 65%, #FFFF 50%)';
-          // document.body.style.backgroundImage = 'url("/src/assets/images/dot.png")';
-          // document.body.style.backgroundSize = 'covser';
+
         } else if (category === "men's clothing") {
           this.categoryColor = 'color-men';
           document.body.style.background = 'url("/src/assets/images/dot.png"), linear-gradient(to bottom, #D6E6FF 65%, #FFFF 50%)';
